@@ -1,4 +1,4 @@
-# greedy -2 : 큰 수의 법칙
+# greedy-2 : 큰 수의 법칙
 
 #n, m, k = map(int, input().split()) # 공백으로 구분하여 입력
 #data = list(map(int, input().split())) # 공백으로 구분하여 리스트 입력
